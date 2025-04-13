@@ -33,7 +33,7 @@ A demo/testing class that:
 ---
 
 
-## 📦 Features Implemented
+##  Features Implemented
 
 -  Full interface-based list design
 -  Custom `ArrayList` and `LinkedList` from scratch
@@ -53,7 +53,7 @@ A demo/testing class that:
 
 ---
 
-## 📁 Future Work
+##  Future Work
 
 - Implementation of `MyStack`, `MyQueue`, and `MyMinHeap` based on physical structures
 - Full implementation of all methods like `addFirst`, `getLast`, etc.
